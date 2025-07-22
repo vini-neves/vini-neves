@@ -98,12 +98,12 @@ Estou em constante aprendizado e adoro explorar novos desafios no mundo da TI, s
 ## 📊 Estatísticas
 <p>
     <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right: 10px"
-        src= "https://github-readme-stats.vercel.app/api?username=vini-neves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px"
+    src="https://github-readme-stats-git-main-vini-neves.vercel.app/api?username=vini-neves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
     <img
         align="left"
         alt="GitHub Stats"
