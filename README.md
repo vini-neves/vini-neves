@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 22 anos e sou natural de São Paulo. Sou formado em Gestão da Tecnologia da Informação pela Universidade Anhembi Morumbi e desde os 15 anos tenho me dedicado ao universo da tecnologia, o que se tornou uma verdadeira paixão.
+Tenho 23 anos e sou natural de São Paulo. Sou formado em Gestão da Tecnologia da Informação pela Universidade Anhembi Morumbi e desde os 15 anos tenho me dedicado ao universo da tecnologia, o que se tornou uma verdadeira paixão.
 
 Estou em constante aprendizado e adoro explorar novos desafios no mundo da TI, seja no desenvolvimento de soluções inovadoras ou na busca por maneiras de otimizar processos. A tecnologia é minha paixão, e estou sempre pronto para aprender mais e contribuir com novos projetos.
 
